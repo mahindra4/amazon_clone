@@ -1,0 +1,29 @@
+.signin-container{
+    padding: 15px 26px;
+}
+.password-restriction{
+    font-size: 12px;
+    margin-top: 7px; 
+}
+.password-restriction i{
+    margin-right: 5px;
+    font-size: 17px;
+    font-family: italic;
+    font-weight: bold;
+    color: rgb(62, 123, 193);
+}
+.signin-condition{
+    margin-bottom: 30px;
+}
+.signin-business{
+    margin-bottom: 15px;
+}
+.signin-redirect{
+    margin-top: 20px;
+    font-size: 13px;
+}
+.signin-redirect a{
+    text-decoration: none;
+    font-weight: 500;
+    color: rgb(33, 122, 212);
+}
