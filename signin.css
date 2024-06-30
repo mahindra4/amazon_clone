@@ -113,7 +113,7 @@ footer{
     max-height: 200px;
     margin-top: 20px;
     padding: 20px 0;
-    position: sticky;
+    position: fixed;
     bottom: 0;
     background: linear-gradient(to bottom , #f4f4f4, white); 
     border-radius: 2px solid #ededed;
