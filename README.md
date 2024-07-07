@@ -23,7 +23,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   https://github.com/mahindra4/amazon_clone.git
+   git clone https://github.com/mahindra4/amazon_clone.git
    ```
 2. **Navigate to the project directory:**
    ```bash
