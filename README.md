@@ -35,3 +35,6 @@ Copy**
    ```bash
    open index.html
    ```
+
+## Demo Video
+[demo video](https://drive.google.com/file/d/1PrjH3VoBMxCPNruqVFwJ8wvWboifVkUk/view?usp=sharing)
